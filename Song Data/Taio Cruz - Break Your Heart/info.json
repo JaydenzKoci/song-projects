@@ -1,0 +1,37 @@
+{   
+	"title": "Break Your Heart",    
+	"artist": "Taio Cruz",    
+	"preview_start_time": 105,    
+	"release_year": "2012",    
+	"source": "",    
+	"album": "Rokstarr",    
+	"loading_phrase": "Forever Young....",    
+	"genres": [    
+		"Electronic"    
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 204,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 5,
+		"vocals": 4
+	},
+	"midi": "break.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}
