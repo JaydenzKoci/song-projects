@@ -1,0 +1,36 @@
+{   
+	"title": "Outcast",    
+	"artist": "NF",    
+	"preview_start_time": 35,    
+	"release_year": "2017",    
+	"source": "",    
+	"album": "Perception",    
+	"loading_phrase": "I rather be the Outcast",    
+	"genres": [    
+		"Hip-Hop"    
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 323,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"vocals": 6
+	},
+	"midi": "Outcast.mid",
+	"art": "cover.jpg",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}
