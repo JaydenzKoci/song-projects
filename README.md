@@ -6,9 +6,9 @@ This is a respository of Encore and Fortnite Festival Modded Tracks made by Jayd
 
 ## Songs
 ### Alan Walker & Kylie Cantrall - Unsure
-![Cover Art]([Song%20Data/Alan%20Walker%20-%20Unsure/cover.png)
+![Unsure](images/Unsure.png)
 [Download](https://github.com/JaydenzKoci/song-projects/blob/main/Songs/Alan%20Walker%20-%20Unsure.zip)
 ## How To Play
-  ![fileupload](images/Encore.png)
+  ![Encore](images/Encore.png)
   Currently to play these you will need a program called Encore. Encore emulates the Fortnite Festival engine so you can play these songs.
 - [Download Encore](https://github.com/Encore-Developers/Encore/releases/tag/v0.1.3)
