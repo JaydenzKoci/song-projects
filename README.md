@@ -6,7 +6,7 @@ This is a respository of Encore and Fortnite Festival Modded Tracks made by Jayd
 
 ## Songs
 ### Alan Walker & Kylie Cantrall - Unsure
-![Unsure](Images/Unsure.png)
+![Unsure](Images/Unsure.png) ![Unsure](Images/Unsure.png)
 
 [Download](https://github.com/JaydenzKoci/song-projects/raw/refs/heads/main/Songs/Alan%20Walker%20-%20Unsure.zip)
 ### Ava Max - Spot A Fake
