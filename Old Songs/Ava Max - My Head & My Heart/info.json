@@ -1,0 +1,24 @@
+{
+    "title":"My Head & My Heart",
+    "artist":"Ava Max",
+    "length":179,
+    "sid":"Drum",
+    "sib":"Bass",
+    "sig":"Guitar",
+    "siv":"Vocals",
+    "diff":{
+        "ds":3,
+        "ba":2,
+        "gr":4,
+        "vl":5
+    },
+    "midi":"myheadandmyheart.mid",
+    "stems":{
+        "drums":"drums.ogg",
+        "bass":"bass.ogg",
+        "lead":"lead.ogg",
+        "vocals":"vocals.ogg",
+        "backing":"backing.ogg"
+    },
+    "art":"cover.png"
+}
