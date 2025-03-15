@@ -28,5 +28,5 @@ This is a respository of Encore and Fortnite Festival Modded Tracks made by Jayd
 ## How To Play
   ![Encore](Images/Encore.png)
   
-  Currently to play these you will need a program called Encore. Encore emulates the Fortnite Festival engine so you can play these songs.
+  Currently to play these you will need a program called Encore. Encore emulates the Fortnite Festival engine so you can play these songs. The tool used to load it into Fortnite Festival is coming soon.
 - [Download Encore](https://github.com/Encore-Developers/Encore/releases/tag/v0.1.3)
