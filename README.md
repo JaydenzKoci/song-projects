@@ -4,6 +4,9 @@ This is a respository of Encore and Fortnite Festival Modded Tracks made by Jayd
 > [!WARNING]
 > I do not own Encore or Fortnite Festival<br>
 
+> [Note]
+> Most WIP Tracks Are Not Playable<br>
+
 ## Songs
 ### Alan Walker & Kylie Cantrall - Unsure
 ![Unsure](Images/Unsure.png) ![Unsure](Images/UnsureDifficulty.png)
