@@ -1,0 +1,37 @@
+{   
+	"title": "Stereo Hearts",    
+	"artist": "Gym Class Heroes (feat. Adam Levine)",    
+	"preview_start_time": 105,    
+	"release_year": "2012",    
+	"source": "",    
+	"album": "The Papercut Chronicles II",    
+	"loading_phrase": "",    
+	"genres": [    
+		"Pop"    
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 215,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 5,
+		"vocals": 4
+	},
+	"midi": "hearts.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}
