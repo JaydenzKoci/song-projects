@@ -1,5 +1,5 @@
 # Encore Song Projects
-This is a respository of Encore and Fortnite Festival Modded Tracks made by Jaydenz.
+This is a respository of Encore and Fortnite Festival Modded Tracks made by Jaydenz. Feel free to fork and use my assets for some of your charts.
 
 > [!WARNING]
 > I do not own Encore or Fortnite Festival.<br>
