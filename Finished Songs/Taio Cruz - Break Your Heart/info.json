@@ -18,8 +18,8 @@
 	"icon_guitar": "Guitar",
 	"icon_vocals": "Vocals",
 	"diff": {
-		"guitar": 5,
-		"vocals": 4
+		"guitar": 4,
+		"vocals": 2
 	},
 	"midi": "break.mid",
 	"art": "cover.png",
