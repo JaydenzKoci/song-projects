@@ -1,9 +1,9 @@
 {   
 	"title": "Unsure",    
-	"artist": "Alan Walker & Kylie Cantrall",    
+	"artist": "Alan Walker & Kyile Cantrall",    
 	"preview_start_time": 399,    
 	"release_year": "2024",    
-	"source": "",    
+	"source": "Custom",    
 	"album": "Walkerworld 2.0",    
 	"loading_phrase": "I'm so Unsure?",    
 	"genres": [    
@@ -18,7 +18,7 @@
 	"icon_guitar": "Guitar",
 	"icon_vocals": "Vocals",
 	"diff": {
-		"guitar": 4,
+		"guitar": 3,
 		"vocals": 3
 	},
 	"midi": "unsure.mid",
