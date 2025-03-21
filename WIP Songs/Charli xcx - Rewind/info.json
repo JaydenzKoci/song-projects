@@ -1,5 +1,5 @@
 {   
-	"title": "Sympathy is a knife",    
+	"title": "Rewind",    
 	"artist": "Charli xcx",    
 	"preview_start_time": 57,    
 	"release_year": "2024",    
@@ -18,7 +18,7 @@
 	"diff": {
 		"guitar": 3
 	},
-	"midi": "notes.mid",
+	"midi": "rewind.mid",
 	"art": "cover.png",
 	"stems": {
 		"drums": [
