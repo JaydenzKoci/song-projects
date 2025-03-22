@@ -1,0 +1,37 @@
+{   
+	"title": "Last Song",    
+	"artist": "Alan Walker (feat. Faouzia)",    
+	"preview_start_time": 399,    
+	"release_year": "2024",    
+	"source": "Custom",    
+	"album": "Walkerworld 2.0",    
+	"loading_phrase": "",    
+	"genres": [    
+		"Pop"    
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 170,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 3,
+		"vocals": 3
+	},
+	"midi": "last.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}
