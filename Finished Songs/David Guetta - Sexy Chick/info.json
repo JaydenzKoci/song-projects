@@ -1,0 +1,36 @@
+{   
+	"title": "Sexy Chick",    
+	"artist": "David Guetta (Feat. Akon)",    
+	"preview_start_time": 33,    
+	"release_year": "2009",    
+	"source": "",    
+	"album": "One Love",    
+	"loading_phrase": "",    
+	"genres": [    
+		"Electronic"    
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 197,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 3
+	},
+	"midi": "chick.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}
