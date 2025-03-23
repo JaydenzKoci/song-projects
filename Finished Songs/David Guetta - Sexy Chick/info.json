@@ -18,7 +18,7 @@
 	"icon_guitar": "Guitar",
 	"icon_vocals": "Vocals",
 	"diff": {
-		"guitar": 3
+		"guitar": 2
 	},
 	"midi": "chick.mid",
 	"art": "cover.png",
