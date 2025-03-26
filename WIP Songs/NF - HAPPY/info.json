@@ -1,0 +1,36 @@
+{   
+	"title": "HAPPY",    
+	"artist": "NF",    
+	"preview_start_time": 35,    
+	"release_year": "2023",    
+	"source": "",    
+	"album": "HOPE",    
+	"loading_phrase": "",    
+	"genres": [    
+		"Hip-Hop"    
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 267,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"vocals": 6
+	},
+	"midi": "happy.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}
