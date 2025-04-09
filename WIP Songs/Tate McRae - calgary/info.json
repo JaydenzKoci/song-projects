@@ -1,0 +1,37 @@
+{   
+	"title": "calgary",    
+	"artist": "Tate McRae",    
+	"preview_start_time": 105,    
+	"release_year": "2023",    
+	"source": "",    
+	"album": "Think Later",    
+	"loading_phrase": "",    
+	"genres": [    
+		"Pop"    
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 192,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 5,
+		"vocals": 4
+	},
+	"midi": "calgary.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}
