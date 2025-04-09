@@ -1,0 +1,37 @@
+{   
+	"title": "The Bottom",    
+	"artist": "Gracie Abrams",    
+	"preview_start_time": 105,    
+	"release_year": "2021",    
+	"source": "",    
+	"album": "This Is What It Feels Like",    
+	"loading_phrase": "",    
+	"genres": [    
+		"Pop"    
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 192,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 4,
+		"vocals": 4
+	},
+	"midi": "bottom.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}
