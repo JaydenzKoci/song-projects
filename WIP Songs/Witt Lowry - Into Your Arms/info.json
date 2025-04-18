@@ -1,0 +1,36 @@
+{   
+	"title": "Into Your Arms",    
+	"artist": "Witt Lowry (Feat. Ava Max)",    
+	"preview_start_time": 33,    
+	"release_year": "2018",    
+	"source": "",    
+	"album": "Single",    
+	"loading_phrase": "",    
+	"genres": [    
+		"Pop Hip Hop"
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 145,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 5
+	},
+	"midi": "arms.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}
