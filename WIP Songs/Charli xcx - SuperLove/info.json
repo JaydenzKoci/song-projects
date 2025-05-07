@@ -1,0 +1,34 @@
+{   
+	"title": "SuperLove",    
+	"artist": "Charli xcx",    
+	"preview_start_time": 57,    
+	"release_year": "2013",    
+	"source": "",    
+	"album": "Single",
+	"loading_phrase": "",    
+	"genres": [    
+		"Pop"  
+	],    
+	"charters": ["Jaydenz"],
+	"length": 165,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 3
+	},
+	"midi": "superlove.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}
