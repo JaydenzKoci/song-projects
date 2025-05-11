@@ -5,7 +5,7 @@
 	"release_year": "2020",    
 	"source": "",    
 	"album": "Future Nostalgia",    
-	"loading_phrase": "",    
+	"loading_phrase": "Tell me if you're ready",    
 	"genres": [    
 		"Pop"    
 	],    
@@ -18,8 +18,7 @@
 	"icon_guitar": "Guitar",
 	"icon_vocals": "Vocals",
 	"diff": {
-		"guitar": 5,
-		"vocals": 4
+		"guitar": 3
 	},
 	"midi": "physical.mid",
 	"art": "cover.png",
