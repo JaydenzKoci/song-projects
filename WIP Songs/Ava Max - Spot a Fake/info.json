@@ -1,0 +1,35 @@
+{   
+	"title": "Spot A Fake",    
+	"artist": "Ava Max",    
+	"preview_start_time": 57,    
+	"release_year": "2024",    
+	"source": "",    
+	"album": "Single",
+	"loading_phrase": "I can spot a fake from a mile away",    
+	"genres": [    
+		"Pop"  
+	],    
+	"charters": ["Jaydenz"],
+	"length": 168,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 2,
+		"vocals": 3
+	},
+	"midi": "SAF.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}

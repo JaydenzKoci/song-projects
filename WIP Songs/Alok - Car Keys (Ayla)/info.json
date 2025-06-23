@@ -1,0 +1,36 @@
+{   
+	"title": "Car Keys (Ayla)",    
+	"artist": "Alok & Ava Max",    
+	"preview_start_time": 105,    
+	"release_year": "2023",    
+	"source": "",    
+	"album": "Single",    
+	"loading_phrase": "If you lose me then, baby, good luck",    
+	"genres": [    
+		"Electronic"    
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 192,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 1
+	},
+	"midi": "keys.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}

@@ -1,0 +1,36 @@
+{   
+	"title": "Physical",    
+	"artist": "Dua Lipa",    
+	"preview_start_time": 105,    
+	"release_year": "2020",    
+	"source": "",    
+	"album": "Future Nostalgia",    
+	"loading_phrase": "Tell me if you're ready",    
+	"genres": [    
+		"Pop"    
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 192,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 3
+	},
+	"midi": "physical.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}

@@ -1,0 +1,36 @@
+{   
+	"title": "What Girls Do",    
+	"artist": "Leah Kate",    
+	"preview_start_time": 105,    
+	"release_year": "2024",    
+	"source": "",    
+	"album": "Single",    
+	"loading_phrase": "That's what, that's what girls do",    
+	"genres": [    
+		"Pop"    
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 192,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 2
+	},
+	"midi": "girls.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}
