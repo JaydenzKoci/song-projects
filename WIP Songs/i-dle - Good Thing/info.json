@@ -1,0 +1,37 @@
+{   
+	"title": "Good Thing",    
+	"artist": "i-dle",    
+	"preview_start_time": 110000,    
+	"release_year": "2025",    
+	"source": "",    
+	"album": "We are",    
+	"loading_phrase": "Oh, it's a good thing",    
+	"genres": [    
+		"K-Pop"    
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 157,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 2,
+		"vocals": 2
+	},
+	"midi": "thing.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}
