@@ -5,7 +5,7 @@
 	"release_year": "2023",    
 	"source": "",    
 	"album": "Diamonds & Dancefloors",    
-	"loading_phrase": "Sleepwalking",    
+	"loading_phrase": "I'm an obsession, not just a game",    
 	"genres": [    
 		"Pop"    
 	],    
@@ -18,7 +18,10 @@
 	"icon_guitar": "Guitar",
 	"icon_vocals": "Vocals",
 	"diff": {
-		"guitar": 5
+		"vocals": 3,
+		"guitar": 4,
+		"bass": 3,
+		"drums": 3
 	},
 	"midi": "tired.mid",
 	"art": "cover.png",
