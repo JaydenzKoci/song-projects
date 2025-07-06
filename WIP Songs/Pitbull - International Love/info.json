@@ -1,0 +1,37 @@
+{   
+	"title": "International Love",    
+	"artist": "Pitbull (feat. Chris Brown)",    
+	"preview_start_time": 75361,    
+	"release_year": "2011",    
+	"source": "",    
+	"album": "Planet Pit",    
+	"loading_phrase": "",    
+	"genres": [    
+		"Pop"    
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 192,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 5,
+		"vocals": 4
+	},
+	"midi": "international.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}
