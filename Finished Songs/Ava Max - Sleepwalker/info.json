@@ -1,0 +1,39 @@
+{   
+	"title": "Sleepwalker",    
+	"artist": "Ava Max",    
+	"preview_start_time": 38000,    
+	"release_year": "2023",    
+	"source": "",    
+	"album": "Diamonds & Dancefloors",    
+	"loading_phrase": "I'm an obsession, not just a game",    
+	"genres": [    
+		"Pop"    
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 194,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"vocals": 3,
+		"guitar": 4,
+		"bass": 3,
+		"drums": 3
+	},
+	"midi": "tired.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}
