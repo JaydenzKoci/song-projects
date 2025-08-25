@@ -1,0 +1,34 @@
+{   
+	"title": "Know Somebody",    
+	"artist": "Ava Max",    
+	"preview_start_time": 43800,    
+	"release_year": "2025",    
+	"source": "",    
+	"album": "Don't Click Play",
+	"loading_phrase": "It's almost too hard to believe",    
+	"genres": [    
+		"Pop"  
+	],    
+	"charters": ["Jaydenz"],
+	"length": 165,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 3
+	},
+	"midi": "know.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}

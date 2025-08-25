@@ -1,0 +1,34 @@
+{   
+	"title": "Fight For Me",    
+	"artist": "Ava Max",    
+	"preview_start_time": 75800,    
+	"release_year": "2025",    
+	"source": "",    
+	"album": "Don't Click Play",
+	"loading_phrase": "Let's go, baby, fight for me",    
+	"genres": [    
+		"Pop"  
+	],    
+	"charters": ["Jaydenz"],
+	"length": 165,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 3
+	},
+	"midi": "fight.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}
