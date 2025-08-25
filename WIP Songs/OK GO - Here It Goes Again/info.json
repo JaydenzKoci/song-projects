@@ -1,0 +1,37 @@
+{   
+	"title": "Here It Goes Again",    
+	"artist": "OK GO",    
+	"preview_start_time": 46500,    
+	"release_year": "2006",    
+	"source": "Custom",    
+	"album": "Oh No",    
+	"loading_phrase": "I should have known",    
+	"genres": [    
+		"Pop Rock"    
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 170,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 3,
+		"vocals": 3
+	},
+	"midi": "again.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}

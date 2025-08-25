@@ -1,0 +1,36 @@
+{   
+	"title": "Rawest Forest",    
+	"artist": "Kirbopher",    
+	"preview_start_time": 17000,    
+	"release_year": "2007",    
+	"source": "",    
+	"album": "Single",    
+	"loading_phrase": "When I play the game, I get lost in a phase",    
+	"genres": [    
+		"Pop"    
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 145,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 5
+	},
+	"midi": "forest.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}

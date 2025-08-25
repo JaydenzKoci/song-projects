@@ -1,0 +1,36 @@
+{   
+	"title": "Slippin",    
+	"artist": "Ava Max (feat. Gashi)",    
+	"preview_start_time": 46400,    
+	"release_year": "2018",    
+	"source": "",    
+	"album": "Single",    
+	"loading_phrase": "If you want good karma, why you causin' drama?",    
+	"genres": [    
+		"Pop"    
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 145,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 5
+	},
+	"midi": "slip.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}

@@ -1,0 +1,36 @@
+{   
+	"title": "Take Away The Pain",    
+	"artist": "Ava Max",    
+	"preview_start_time": 51400,    
+	"release_year": "2013",    
+	"source": "",    
+	"album": "AVA",    
+	"loading_phrase": "You always take away the pain",    
+	"genres": [    
+		"Pop"    
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 145,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 5
+	},
+	"midi": "pain.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}

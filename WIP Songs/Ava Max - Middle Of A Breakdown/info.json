@@ -1,0 +1,36 @@
+{   
+	"title": "Middle Of A Breakdown",    
+	"artist": "Ava Max",    
+	"preview_start_time": 88049,    
+	"release_year": "2021",    
+	"source": "",    
+	"album": "Heaven & Hell (Scrapped)",    
+	"loading_phrase": "I got good friends but I never make the time",    
+	"genres": [    
+		"Pop"    
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 145,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 5
+	},
+	"midi": "breakdown.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}
