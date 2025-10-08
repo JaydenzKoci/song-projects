@@ -1,0 +1,36 @@
+{   
+	"title": "Means I care",    
+	"artist": "Tate McRae",    
+	"preview_start_time": 34000,    
+	"release_year": "2025",    
+	"source": "",    
+	"album": "So Close To What",    
+	"loading_phrase": "",    
+	"genres": [    
+		"Pop"    
+	],    
+	"charters": [
+		"Jaydenz"	
+	],
+	"length": 303,
+	"icon_drums": "Drum",
+	"icon_bass": "Bass",
+	"icon_guitar": "Guitar",
+	"icon_vocals": "Vocals",
+	"diff": {
+		"guitar": 5
+	},
+	"midi": "care.mid",
+	"art": "cover.png",
+	"stems": {
+		"drums": [
+			"drums.ogg"
+		],
+		"bass": "bass.ogg",
+		"lead": "lead.ogg",
+		"vocals": "vocals.ogg",
+		"backing": [
+			"backing.ogg"			
+		]
+	}
+}
